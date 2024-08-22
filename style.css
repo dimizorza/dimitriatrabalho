@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body{
+    background-color: hwb(0 86% 3%);
+    margin: auto;
+    padding: 20px;
+    width: 1000px;
+    text-align: center;
+    font-size:large
+    
+}
+table{
+    background-color: rgb(224, 127, 160);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color: black;
+}
+
+main{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px;
+}
+h1{
+    color: rgb(117, 25, 25);
+    text-align: center;
+    text-shadow: 1px 1px 3px rgb(54, 11, 11) ;
+    border: solid pink;
+    background-color: pink;
+} 
+h2{
+    color: rgb(117, 25, 25);
+    text-align: center;   
+}
